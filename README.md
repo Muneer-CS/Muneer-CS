@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Muneer
 
-<!--
-**Muneer-CS/Muneer-CS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 2nd year Computer Science student at **Toronto Metropolitan University**, TMU, interested in cybersecurity, IT systems and data analysis.
 
-Here are some ideas to get you started:
+I learn best by building things and working through practical problems. My projects explore secure file sharing, financial data, and automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+
+- **ShapeFinder** — A web application for finding stocks with similar price-chart patterns.
+- **TempShare** — A Rust-based file-sharing application with temporary links, password protection, expiration controls, and resumable downloads.
+- **Discord Backup Bot** — A bot for backing up Discord server structures, including categories, channels, and threads.
+
+### What I'm working toward
+
+Developing a stronger understanding of how applications work from their code and databases to security, testing and deployment.
+
+I'm seeking opportunities to contribute, learn from experienced teams, and gain practical experience through a co-op placement.
+
+[Connect with me on LinkedIn](https://www.linkedin.com/in/muneer-mahmoud/)
